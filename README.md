@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, I'm Ayush Solanki! 👋
 
-<!--
-**ayushsolanki2002102/ayushsolanki2002102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🎓
+I'm a passionate tech enthusiast currently pursuing a Bachelor's in Computer Science and Engineering. I thrive on learning and exploring new technologies, constantly seeking to expand my knowledge and skills in the ever-evolving world of software development.
 
-Here are some ideas to get you started:
+## Current Role 🚀
+- **Position:** Software Engineer 1
+- **Company:** GeekyAnts
+- **Location:** Bangalore, India
+- **Responsibilities:** Delving deep into coding, problem-solving, and collaborating with talented teams to create innovative solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests 🌱
+- **Tech:** Always open to exciting opportunities and collaborations in the tech realm.
+- **Networking:** Eager to connect with like-minded individuals and projects.
+
+## Let's Connect! 🌟
+I'm open to discussions, collaborations, and brainstorming sessions. Let's build something awesome together!
+
